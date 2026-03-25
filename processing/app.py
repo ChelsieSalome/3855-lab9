@@ -7,10 +7,10 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime, timezone
 import requests
 
-with open('app_conf.yaml', 'r') as f:
+with open('config/processing_config.yml', 'r') as f: #lab9
     app_config = yaml.safe_load(f)
 
-with open('log_conf.yaml', 'r') as f:
+with open('config/processing_log_config.yml', 'r') as f: #lab9
     log_config = yaml.safe_load(f)
     logging.config.dictConfig(log_config)
 

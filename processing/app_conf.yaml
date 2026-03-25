@@ -1,8 +1,0 @@
-version: 1
-datastore:
-  filename: data.json
-scheduler:
-  interval: 5
-eventstores:
-  performance_url: http://storage-service:8091/monitoring/performance
-  errors_url: http://storage-service:8091/monitoring/errors

@@ -8,12 +8,12 @@ import time
 
 
 # Load configuration
-with open('app_conf.yaml', 'r') as f:
+with open('/config/storage_config.yml', 'r') as f: #lab9
     app_config = yaml.safe_load(f.read())
 
 db_conf = app_config['datastore']
 
-with open("log_conf.yaml", "r") as f:
+with open("/config/storage_log_config.yml", "r") as f: #lab9
     LOG_CONFIG = yaml.safe_load(f.read())
     logging.config.dictConfig(LOG_CONFIG)
 

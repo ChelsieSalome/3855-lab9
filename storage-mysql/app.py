@@ -5,6 +5,7 @@ import functools
 import json
 import yaml
 import logging
+import logging.config 
 import threading
 from models import PerformanceReading, ErrorReading
 from create_tables import make_session
@@ -12,10 +13,18 @@ from sqlalchemy import select
 from kafka import KafkaConsumer
 from kafka.errors import KafkaError
 
-# LOGGING CONFIGURATION - SUPPRESS KAFKA DEBUG
-logging.basicConfig(level=logging.INFO)
+
+with open('/config/storage_config.yml', 'r') as f:  #lab9
+    app_config = yaml.safe_load(f.read())
+
+
+with open('/config/storage_log_config.yml', 'r') as f:  #lab9
+    log_config = yaml.safe_load(f.read())
+    logging.config.dictConfig(log_config)  
+
+
 logger = logging.getLogger('basicLogger')
-logger.setLevel(logging.INFO)
+ 
 
 # Suppress Kafka DEBUG logs
 logging.getLogger('kafka').setLevel(logging.WARNING)
@@ -26,14 +35,14 @@ logging.getLogger('kafka.protocol').setLevel(logging.WARNING)
 logging.getLogger('kafka.coordinator').setLevel(logging.WARNING)
 
 
-with open('app_conf.yaml', 'r') as f:
+with open('config/storage_config.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
 KAFKA_SERVER = f"{app_config['events']['hostname']}:{app_config['events']['port']}"
 KAFKA_TOPIC = app_config['events']['topic']
 
-logger.info("Configuration loaded - Kafka DEBUG logs suppressed")
-
+logger.info("Storage service configuration loaded successfully")
+logger.info(f"Kafka: {KAFKA_SERVER}, Topic: {KAFKA_TOPIC}")
 
 def use_db_session(func):
     """Decorator to inject database session into functions"""
@@ -47,7 +56,6 @@ def use_db_session(func):
     return wrapper
 
 
-# DATABASE FUNCTIONS (Internal - Called by Kafka Consumer)
 @use_db_session
 def report_performance_metrics(session, body):
     """Store performance metric to database"""
@@ -87,28 +95,24 @@ def report_error_metrics(session, body):
     return NoContent, 201
 
 
-# API ENDPOINTS (GET only - no POST)
 @use_db_session
 def get_performance_readings(session, start_timestamp, end_timestamp):
     """Retrieve performance readings within time range"""
     logger.debug(f"GET /monitoring/performance request: {start_timestamp} to {end_timestamp}")
     
-    # Strip any whitespace/newlines from timestamps
     start_timestamp = start_timestamp.strip()
     end_timestamp = end_timestamp.strip()
     
-    # Parse timestamps
     start_datetime = datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     
-    # Query database using simple select with chained where clauses
+    
     statement = select(PerformanceReading).where(
         PerformanceReading.date_created >= start_datetime
     ).where(
         PerformanceReading.date_created < end_datetime
     )
     
-    # Execute query and convert to dictionaries
     results = [reading.to_dict() for reading in session.execute(statement).scalars().all()]
     
     logger.info(f"GET request: Found {len(results)} performance readings between {start_timestamp} and {end_timestamp}")
@@ -121,22 +125,18 @@ def get_error_readings(session, start_timestamp, end_timestamp):
     """Retrieve error readings within time range"""
     logger.debug(f"GET /monitoring/errors request: {start_timestamp} to {end_timestamp}")
     
-    # Strip any whitespace/newlines from timestamps
     start_timestamp = start_timestamp.strip()
     end_timestamp = end_timestamp.strip()
     
-    # Parse timestamps
     start_datetime = datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     
-    # Query database using simple select with chained where clauses
     statement = select(ErrorReading).where(
         ErrorReading.date_created >= start_datetime
     ).where(
         ErrorReading.date_created < end_datetime
     )
     
-    # Execute query and convert to dictionaries
     results = [reading.to_dict() for reading in session.execute(statement).scalars().all()]
     
     logger.info(f"GET request: Found {len(results)} error readings between {start_timestamp} and {end_timestamp}")

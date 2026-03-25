@@ -10,17 +10,15 @@ import time
 from kafka import KafkaProducer
 from kafka.errors import NoBrokersAvailable
 
-# LOAD CONFIGURATION
-with open('app_conf.yaml', 'r') as f:
+with open('config/receiver_config.yml', 'r') as f: #lab9
     app_config = yaml.safe_load(f.read())
 
-with open("log_conf.yaml", "r") as f:
+with open("config/receiver_log_config.yml", "r") as f: #lab9
     LOG_CONFIG = yaml.safe_load(f.read())
     logging.config.dictConfig(LOG_CONFIG)
 
 logger = logging.getLogger('basicLogger')
 
-# SUPPRESS KAFKA DEBUG LOGS
 logging.getLogger('kafka').setLevel(logging.WARNING)
 
 logger.info("Configuration loaded - Kafka DEBUG logs suppressed")
@@ -28,7 +26,6 @@ logger.info("Configuration loaded - Kafka DEBUG logs suppressed")
 KAFKA_SERVER = f"{app_config['events']['hostname']}:{app_config['events']['port']}"
 KAFKA_TOPIC = app_config['events']['topic']
 
-# Initialize Kafka Producer with retry logic
 def get_kafka_producer():
     max_retries = 10
     retry_delay = 5  # seconds
@@ -131,13 +128,11 @@ def report_error_metrics(body):
         return {"error": str(e)}, 500
 
 
-# Create Connexion app
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("receiver_openapi.yaml",
             strict_validation=True,
             validate_responses=True)
 
-# Get Flask app for custom routes
 flask_app = app.app
 
 
