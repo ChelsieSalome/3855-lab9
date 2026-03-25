@@ -10,10 +10,10 @@ import time
 from kafka import KafkaProducer
 from kafka.errors import NoBrokersAvailable
 
-with open('config/receiver_config.yml', 'r') as f: #lab9
+with open('/config/receiver_config.yml', 'r') as f: #lab9
     app_config = yaml.safe_load(f.read())
 
-with open("config/receiver_log_config.yml", "r") as f: #lab9
+with open("/config/receiver_log_config.yml", "r") as f: #lab9
     LOG_CONFIG = yaml.safe_load(f.read())
     logging.config.dictConfig(LOG_CONFIG)
 
