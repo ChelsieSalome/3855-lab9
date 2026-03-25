@@ -81,10 +81,8 @@ services:
       retries: 10
       start_period: 20s
     volumes: #lab9
-      - ./config/storage_config.yml:/config/storage_config.yml
-      - ./config/storage_log_config.yml:/config/storage_log_config.yml
+      - ./config:/config  
       - ./logs:/logs
- 
 
   receiver-service:
     build:
@@ -98,8 +96,7 @@ services:
     networks:
       - app-network
     volumes: #lab9
-      - ./config/receiver_config.yml:/config/receiver_config.yml
-      - ./config/receiver_log_config.yml:/config/receiver_log_config.yml
+      - ./config:/config  
       - ./logs:/logs
 
   processing-service:
@@ -114,8 +111,7 @@ services:
     networks:
       - app-network
     volumes: #lab9
-      - ./config/processing_config.yml:/config/processing_config.yml
-      - ./config/processing_log_config.yml:/config/processing_log_config.yml
+      - ./config:/config  
       - ./logs:/logs
       - ./data/processing:/data  
 
@@ -131,8 +127,7 @@ services:
     networks:
       - app-network
     volumes: #lab9
-      - ./config/analyzer_config.yml:/config/analyzer_config.yml
-      - ./config/analyzer_log_config.yml:/config/analyzer_log_config.yml
+      - ./config:/config  
       - ./logs:/logs
  
 
