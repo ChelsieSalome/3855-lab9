@@ -35,8 +35,6 @@ logging.getLogger('kafka.protocol').setLevel(logging.WARNING)
 logging.getLogger('kafka.coordinator').setLevel(logging.WARNING)
 
 
-with open('config/storage_config.yml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
 
 KAFKA_SERVER = f"{app_config['events']['hostname']}:{app_config['events']['port']}"
 KAFKA_TOPIC = app_config['events']['topic']
