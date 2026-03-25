@@ -1,0 +1,182 @@
+2026-03-25 08:33:17,621 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:17,624 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:17,625 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:18,639 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:18,648 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:18,652 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:18,705 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:18,712 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:18,717 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:19,716 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:19,722 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:19,729 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:19,775 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:19,782 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:19,792 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:20,790 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:20,800 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:20,849 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:20,861 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:21,752 - basicLogger - ERROR - No performance event found at index 15000
+2026-03-25 08:33:21,812 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:21,855 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:21,867 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:21,917 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:21,931 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:22,819 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:22,880 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:22,923 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:22,945 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:23,213 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:23,219 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:23,884 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:24,165 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:33:24,217 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:24,224 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:24,281 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:24,286 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:25,170 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:33:25,229 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:33:25,285 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:25,291 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:25,345 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:25,353 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:26,238 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:26,301 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:33:26,351 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:26,357 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:26,423 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:26,426 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:27,305 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:33:27,366 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:33:27,430 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:27,432 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:27,491 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:27,496 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:28,371 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:28,432 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:33:28,495 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:28,501 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:33:29,438 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:17,487 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:17,827 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:18,166 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:18,831 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:18,896 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:19,045 - basicLogger - INFO - Statistics: {'num_performance_events': 27, 'num_error_events': 18}
+2026-03-25 08:34:19,108 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:19,170 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:19,236 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:19,902 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:19,974 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:20,117 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:20,178 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:20,245 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:20,309 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:20,983 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:21,046 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:21,189 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:21,250 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:21,313 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:21,375 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:22,050 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:22,124 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:22,255 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:22,328 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:22,381 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:22,506 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:23,128 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:23,332 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:23,403 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:23,510 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:23,594 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:23,784 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:24,407 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:24,484 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:24,598 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:24,660 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:24,788 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:24,851 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:25,488 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:25,664 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:25,724 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:25,730 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:25,855 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:25,917 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:26,729 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:26,736 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:26,791 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:26,799 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:26,922 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:26,985 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:27,795 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:27,808 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:27,858 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:27,868 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:27,999 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:28,064 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:28,863 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:28,871 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:29,069 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:29,140 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:29,169 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:29,334 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:30,145 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:30,178 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:30,214 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:30,236 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:30,338 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:30,400 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:31,219 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:31,240 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:31,280 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:31,298 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:31,404 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:31,465 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:32,284 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:32,302 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:32,343 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:32,363 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:32,470 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:32,532 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:33,349 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:33,367 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:33,409 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:33,426 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:33,536 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:33,599 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:34,415 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:34,430 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:34,603 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:34,678 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:34,701 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:34,871 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:34:35,683 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:35,705 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:35,744 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:35,764 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:35,875 - basicLogger - ERROR - Error retrieving statistics: No partitions are currently assigned
+2026-03-25 08:34:35,950 - basicLogger - INFO - Request for performance event at index 0
+2026-03-25 08:34:36,753 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:36,770 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:36,816 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:36,830 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:36,962 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:37,024 - basicLogger - INFO - Request for performance event at index 15000
+2026-03-25 08:34:37,823 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:37,845 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:37,893 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:37,904 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:38,029 - basicLogger - ERROR - Error retrieving performance event: No partitions are currently assigned
+2026-03-25 08:34:38,099 - basicLogger - INFO - Request for error event at index 0
+2026-03-25 08:34:38,898 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:38,908 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:38,959 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:38,966 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:39,104 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:39,167 - basicLogger - INFO - Request for error event at index 15000
+2026-03-25 08:34:39,963 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:39,973 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:34:40,171 - basicLogger - ERROR - Error retrieving error event: No partitions are currently assigned
+2026-03-25 08:38:45,211 - basicLogger - INFO - Request for event statistics
+2026-03-25 08:38:46,456 - basicLogger - INFO - Statistics: {'num_performance_events': 54, 'num_error_events': 36}

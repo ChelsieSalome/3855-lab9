@@ -1,0 +1,1277 @@
+2026-03-25 08:33:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:32,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:32,243 - basicLogger - INFO - Resetting statistics to zero before updating with new values
+2026-03-25 08:33:32,264 - basicLogger - INFO - Number of performance events received: 18
+2026-03-25 08:33:32,274 - basicLogger - INFO - Number of error events received: 12
+2026-03-25 08:33:32,281 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:32Z'}
+2026-03-25 08:33:32,281 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:33:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:37,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:33:37,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:33:37,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:37Z'}
+2026-03-25 08:33:37,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:33:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:42,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:33:42,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:33:42,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:42Z'}
+2026-03-25 08:33:42,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:33:47,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:47,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:47,254 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:33:47,262 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:33:47,262 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:47Z'}
+2026-03-25 08:33:47,262 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:33:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:52,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:33:52,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:33:52,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:52Z'}
+2026-03-25 08:33:52,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:33:57,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:33:57,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:33:57,254 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:33:57,266 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:33:57,267 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:33:57Z'}
+2026-03-25 08:33:57,267 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:02,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:02,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:02,254 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:02,263 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:02,263 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:02Z'}
+2026-03-25 08:34:02,263 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:07,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:07,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:07,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:07,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:07Z'}
+2026-03-25 08:34:07,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:12,252 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:12,260 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:12,260 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:12Z'}
+2026-03-25 08:34:12,260 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:17,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:17,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 18, 'max_cpu_reading': 83.3, 'num_error_readings': 12, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:17Z'}
+2026-03-25 08:34:17,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:22,252 - basicLogger - INFO - Number of performance events received: 9
+2026-03-25 08:34:22,260 - basicLogger - INFO - Number of error events received: 6
+2026-03-25 08:34:22,261 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 27, 'max_cpu_reading': 83.3, 'num_error_readings': 18, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:22Z'}
+2026-03-25 08:34:22,261 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:27,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:27,252 - basicLogger - INFO - Number of performance events received: 9
+2026-03-25 08:34:27,260 - basicLogger - INFO - Number of error events received: 6
+2026-03-25 08:34:27,260 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 36, 'max_cpu_reading': 85.6, 'num_error_readings': 24, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:27Z'}
+2026-03-25 08:34:27,260 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:32,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:32,251 - basicLogger - INFO - Number of performance events received: 9
+2026-03-25 08:34:32,259 - basicLogger - INFO - Number of error events received: 6
+2026-03-25 08:34:32,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 45, 'max_cpu_reading': 92.1, 'num_error_readings': 30, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:32Z'}
+2026-03-25 08:34:32,259 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:37,251 - basicLogger - INFO - Number of performance events received: 9
+2026-03-25 08:34:37,259 - basicLogger - INFO - Number of error events received: 6
+2026-03-25 08:34:37,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:37Z'}
+2026-03-25 08:34:37,259 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:42,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:42,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:42,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:42Z'}
+2026-03-25 08:34:42,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:47,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:47,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:47,304 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:47,310 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:47,311 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:47Z'}
+2026-03-25 08:34:47,311 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:52,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:52,259 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:52,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:52Z'}
+2026-03-25 08:34:52,260 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:34:57,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:34:57,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:34:57,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:34:57,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:34:57,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:34:57Z'}
+2026-03-25 08:34:57,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:02,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:02,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:02,262 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:02,262 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:02Z'}
+2026-03-25 08:35:02,262 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:07,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:07,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:07,258 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:07,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:07Z'}
+2026-03-25 08:35:07,259 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:12,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:12,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:12Z'}
+2026-03-25 08:35:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:17,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:17,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:17Z'}
+2026-03-25 08:35:17,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:22,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:22,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:22,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:22Z'}
+2026-03-25 08:35:22,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:27,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:27,253 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:27,260 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:27,260 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:27Z'}
+2026-03-25 08:35:27,261 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:32,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:32,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:32,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:32,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:32,258 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:32Z'}
+2026-03-25 08:35:32,258 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:37,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:37,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:37,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:37Z'}
+2026-03-25 08:35:37,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:42,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:42,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:42,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:42Z'}
+2026-03-25 08:35:42,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:47,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:47,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:47,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:47,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:47,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:47Z'}
+2026-03-25 08:35:47,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:52,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:52,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:52,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:52Z'}
+2026-03-25 08:35:52,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:35:57,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:35:57,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:35:57,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:35:57,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:35:57,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:35:57Z'}
+2026-03-25 08:35:57,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:02,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:02,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:02,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:02,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:02Z'}
+2026-03-25 08:36:02,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:07,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:07,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:07,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:07,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:07Z'}
+2026-03-25 08:36:07,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:12,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:12,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:12Z'}
+2026-03-25 08:36:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:17,244 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:17,253 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:17,260 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:17,261 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:17Z'}
+2026-03-25 08:36:17,261 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:22,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:22,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:22,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:22Z'}
+2026-03-25 08:36:22,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:27,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:27,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:27,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:27,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:27Z'}
+2026-03-25 08:36:27,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:32,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:32,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:32,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:32,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:32Z'}
+2026-03-25 08:36:32,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:37,253 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:37,259 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:37,260 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:37Z'}
+2026-03-25 08:36:37,260 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:42,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:42,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:42,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:42Z'}
+2026-03-25 08:36:42,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:47,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:47,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:47,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:47,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:47,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:47Z'}
+2026-03-25 08:36:47,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:52,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:52,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:52,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:52Z'}
+2026-03-25 08:36:52,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:36:57,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:36:57,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:36:57,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:36:57,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:36:57,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:36:57Z'}
+2026-03-25 08:36:57,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:02,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:02,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:02,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:02,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:02Z'}
+2026-03-25 08:37:02,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:07,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:07,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:07,254 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:07,264 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:07,264 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:07Z'}
+2026-03-25 08:37:07,264 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:12,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:12,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:12Z'}
+2026-03-25 08:37:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:17,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:17,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:17Z'}
+2026-03-25 08:37:17,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:22,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:22,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:22,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:22Z'}
+2026-03-25 08:37:22,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:27,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:27,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:27,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:27,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:27Z'}
+2026-03-25 08:37:27,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:32,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:32,252 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:32,259 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:32,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:32Z'}
+2026-03-25 08:37:32,259 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:37,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:37,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:37,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:37Z'}
+2026-03-25 08:37:37,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:42,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:42,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:42,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:42Z'}
+2026-03-25 08:37:42,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:47,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:47,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:47,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:47,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:47,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:47Z'}
+2026-03-25 08:37:47,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:52,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:52,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:52,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:52Z'}
+2026-03-25 08:37:52,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:37:57,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:37:57,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:37:57,255 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:37:57,265 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:37:57,265 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:37:57Z'}
+2026-03-25 08:37:57,265 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:02,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:02,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:02,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:02,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:02Z'}
+2026-03-25 08:38:02,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:07,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:07,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:07,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:07,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:07Z'}
+2026-03-25 08:38:07,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:12,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:12,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:12Z'}
+2026-03-25 08:38:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:17,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:17,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:17Z'}
+2026-03-25 08:38:17,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:22,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:22,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:22,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:22Z'}
+2026-03-25 08:38:22,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:25,985 - basicLogger - INFO - Request for statistics received
+2026-03-25 08:38:25,985 - basicLogger - DEBUG - Statistics contents: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:22Z'}
+2026-03-25 08:38:25,985 - basicLogger - INFO - Request has completed
+2026-03-25 08:38:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:27,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:27,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:27,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:27,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:27Z'}
+2026-03-25 08:38:27,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:32,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:32,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:32,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:32,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:32Z'}
+2026-03-25 08:38:32,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:37,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:37,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:37,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:37,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:37Z'}
+2026-03-25 08:38:37,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:42,243 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:42,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:42,253 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:42,262 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:42,263 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:42Z'}
+2026-03-25 08:38:42,263 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:47,244 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:47,244 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:47,253 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:47,272 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:47,273 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:47Z'}
+2026-03-25 08:38:47,273 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:52,244 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:52,244 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:52,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:52,258 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:52,259 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:52Z'}
+2026-03-25 08:38:52,259 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:38:57,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:38:57,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:38:57,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:38:57,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:38:57,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:38:57Z'}
+2026-03-25 08:38:57,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:02,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:02,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:02,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:02,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:02Z'}
+2026-03-25 08:39:02,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:07,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:07,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:07,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:07,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:07Z'}
+2026-03-25 08:39:07,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:12,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:12,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:12Z'}
+2026-03-25 08:39:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:17,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:17,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:17Z'}
+2026-03-25 08:39:17,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:22,251 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:22,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:22,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:22Z'}
+2026-03-25 08:39:22,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:27,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:27,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:27,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:27,258 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:27Z'}
+2026-03-25 08:39:27,258 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:32,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:32,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:32,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:32,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:32Z'}
+2026-03-25 08:39:32,256 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:37,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:37,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:37,252 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:37,260 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:37,261 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:37Z'}
+2026-03-25 08:39:37,261 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:42,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:42,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:42,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:42,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:42,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:42Z'}
+2026-03-25 08:39:42,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:47,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:47,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:47,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:47,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:47,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:47Z'}
+2026-03-25 08:39:47,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:52,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:52,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:52,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:52,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:52,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:52Z'}
+2026-03-25 08:39:52,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:39:57,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:39:57,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:39:57,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:39:57,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:39:57,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:39:57Z'}
+2026-03-25 08:39:57,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:02,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:02,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:02,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:40:02,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:40:02,258 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:02Z'}
+2026-03-25 08:40:02,258 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:07,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:07,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:07,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:40:07,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:40:07,256 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:07Z'}
+2026-03-25 08:40:07,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:12,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:12,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:12,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:40:12,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:40:12,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:12Z'}
+2026-03-25 08:40:12,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:17,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:17,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:17,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:40:17,256 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:40:17,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:17Z'}
+2026-03-25 08:40:17,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:22,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:22,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:22,250 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 08:40:22,257 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 08:40:22,257 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:22Z'}
+2026-03-25 08:40:22,257 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:27,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:27,242 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:27,336 - basicLogger - ERROR - Did not get 200 response code for performance data: 500
+2026-03-25 08:40:27,386 - basicLogger - ERROR - Did not get 200 response code for error data: 500
+2026-03-25 08:40:27,387 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:27Z'}
+2026-03-25 08:40:27,387 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 08:40:32,242 - basicLogger - INFO - Periodic processing has started
+2026-03-25 08:40:32,243 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 08:40:32,269 - basicLogger - ERROR - Did not get 200 response code for performance data: 500
+2026-03-25 08:40:32,280 - basicLogger - ERROR - Did not get 200 response code for error data: 500
+2026-03-25 08:40:32,281 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 54, 'max_cpu_reading': 95.1, 'num_error_readings': 36, 'max_severity_level': 5, 'last_updated': '2026-03-25T08:40:32Z'}
+2026-03-25 08:40:32,281 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:22:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:22:42,296 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:22:42,296 - basicLogger - INFO - Resetting statistics to zero before updating with new values
+2026-03-25 19:22:42,311 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:22:42,320 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:22:42,320 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:22:42Z'}
+2026-03-25 19:22:42,320 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:22:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:22:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:22:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:22:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:22:47,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:22:47Z'}
+2026-03-25 19:22:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:22:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:22:52,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:22:52,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:22:52,318 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:22:52,319 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:22:52Z'}
+2026-03-25 19:22:52,319 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:22:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:22:57,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:22:57,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:22:57,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:22:57,309 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:22:57Z'}
+2026-03-25 19:22:57,309 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:02,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:02,305 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:02,312 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:02,312 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:02Z'}
+2026-03-25 19:23:02,312 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:07Z'}
+2026-03-25 19:23:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:12,303 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:12,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:12,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:12Z'}
+2026-03-25 19:23:12,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:17,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:17,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:17,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:17Z'}
+2026-03-25 19:23:17,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:22Z'}
+2026-03-25 19:23:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:27,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:27,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:27Z'}
+2026-03-25 19:23:27,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:32,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:32Z'}
+2026-03-25 19:23:32,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:37,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:37,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:37,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:37Z'}
+2026-03-25 19:23:37,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:42,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:42,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:42Z'}
+2026-03-25 19:23:42,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:47,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:47Z'}
+2026-03-25 19:23:47,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:52,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:52,311 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:52,311 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:52Z'}
+2026-03-25 19:23:52,311 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:23:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:23:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:23:57,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:23:57,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:23:57,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:23:57Z'}
+2026-03-25 19:23:57,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:02,311 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:02,311 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:02Z'}
+2026-03-25 19:24:02,311 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:07Z'}
+2026-03-25 19:24:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:12,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:12,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:12Z'}
+2026-03-25 19:24:12,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:17,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:17,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:17,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:17Z'}
+2026-03-25 19:24:17,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:22,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:22Z'}
+2026-03-25 19:24:22,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:27,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:27,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:27Z'}
+2026-03-25 19:24:27,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:32,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:32Z'}
+2026-03-25 19:24:32,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:37,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:37,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:37,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:37Z'}
+2026-03-25 19:24:37,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:42,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:42,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:42,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:42Z'}
+2026-03-25 19:24:42,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:47,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:47Z'}
+2026-03-25 19:24:47,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:52,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:52,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:52,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:52Z'}
+2026-03-25 19:24:52,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:24:57,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:24:57,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:24:57,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:24:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:24:57,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:24:57Z'}
+2026-03-25 19:24:57,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:02,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:02,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:02,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:02,309 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:02Z'}
+2026-03-25 19:25:02,309 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:07,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:07,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:07,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:07Z'}
+2026-03-25 19:25:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:12,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:12,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:12,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:12Z'}
+2026-03-25 19:25:12,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:17,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:17,303 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:17,312 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:17,313 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:17Z'}
+2026-03-25 19:25:17,314 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:22,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:22Z'}
+2026-03-25 19:25:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:27,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:27,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:27Z'}
+2026-03-25 19:25:27,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:32,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:32,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:32,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:32,310 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:32,311 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:32Z'}
+2026-03-25 19:25:32,311 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:37,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:37,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:37,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:37Z'}
+2026-03-25 19:25:37,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:42,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:42,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:42Z'}
+2026-03-25 19:25:42,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:47,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:47Z'}
+2026-03-25 19:25:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:52,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:52,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:52,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:52Z'}
+2026-03-25 19:25:52,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:25:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:25:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:25:57,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:25:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:25:57,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:25:57Z'}
+2026-03-25 19:25:57,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:02,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:02Z'}
+2026-03-25 19:26:02,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:07,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:07Z'}
+2026-03-25 19:26:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:12,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:12,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:12,306 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:12,316 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:12,316 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:12Z'}
+2026-03-25 19:26:12,316 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:17,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:17,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:17,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:17Z'}
+2026-03-25 19:26:17,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:22Z'}
+2026-03-25 19:26:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:27,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:27,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:27,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:27Z'}
+2026-03-25 19:26:27,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:32,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:32Z'}
+2026-03-25 19:26:32,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:37,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:37,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:37,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:37Z'}
+2026-03-25 19:26:37,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:42,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:42,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:42Z'}
+2026-03-25 19:26:42,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:47Z'}
+2026-03-25 19:26:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:52,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:52,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:52Z'}
+2026-03-25 19:26:52,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:26:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:26:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:26:57,304 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:26:57,311 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:26:57,312 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:26:57Z'}
+2026-03-25 19:26:57,312 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:02,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:02,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:02,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:02,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:02Z'}
+2026-03-25 19:27:02,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:07,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:07,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:07Z'}
+2026-03-25 19:27:07,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:12,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:12,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:12Z'}
+2026-03-25 19:27:12,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:17,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:17,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:17,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:17Z'}
+2026-03-25 19:27:17,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:22,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:22Z'}
+2026-03-25 19:27:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:27,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:27,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:27,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:27Z'}
+2026-03-25 19:27:27,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:32,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:32Z'}
+2026-03-25 19:27:32,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:37,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:37,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:37,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:37Z'}
+2026-03-25 19:27:37,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:42,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:42,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:42Z'}
+2026-03-25 19:27:42,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:47,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:47,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:47,303 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:47,313 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:47,314 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:47Z'}
+2026-03-25 19:27:47,314 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:52,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:52,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:52Z'}
+2026-03-25 19:27:52,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:27:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:27:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:27:57,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:27:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:27:57,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:27:57Z'}
+2026-03-25 19:27:57,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:02,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:02,309 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:02Z'}
+2026-03-25 19:28:02,309 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:07,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:07Z'}
+2026-03-25 19:28:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:12,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:12,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:12Z'}
+2026-03-25 19:28:12,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:17,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:17,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:17,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:17,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:17Z'}
+2026-03-25 19:28:17,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:22Z'}
+2026-03-25 19:28:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:27,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:27,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:27Z'}
+2026-03-25 19:28:27,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:32,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:32Z'}
+2026-03-25 19:28:32,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:37,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:37,320 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:37,321 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:37Z'}
+2026-03-25 19:28:37,321 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:42,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:42,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:42,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:42Z'}
+2026-03-25 19:28:42,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:47Z'}
+2026-03-25 19:28:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:52,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:52,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:52Z'}
+2026-03-25 19:28:52,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:28:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:28:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:28:57,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:28:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:28:57,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:28:57Z'}
+2026-03-25 19:28:57,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:02,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:02Z'}
+2026-03-25 19:29:02,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:07,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:07,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:07Z'}
+2026-03-25 19:29:07,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:12,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:12,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:12Z'}
+2026-03-25 19:29:12,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:17,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:17,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:17,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:17Z'}
+2026-03-25 19:29:17,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:22,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:22Z'}
+2026-03-25 19:29:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:27,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:27,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:27,304 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:27,310 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:27,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:27Z'}
+2026-03-25 19:29:27,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:32,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:32Z'}
+2026-03-25 19:29:32,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:37,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:37,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:37,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:37Z'}
+2026-03-25 19:29:37,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:42,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:42,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:42,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:42,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:42Z'}
+2026-03-25 19:29:42,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:47,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:47Z'}
+2026-03-25 19:29:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:52,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:52,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:52,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:52Z'}
+2026-03-25 19:29:52,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:29:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:29:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:29:57,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:29:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:29:57,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:29:57Z'}
+2026-03-25 19:29:57,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:02,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:02,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:02Z'}
+2026-03-25 19:30:02,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:07,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:07,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:07Z'}
+2026-03-25 19:30:07,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:12,311 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:12,319 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:12,319 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:12Z'}
+2026-03-25 19:30:12,319 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:17,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:17,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:17,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:17Z'}
+2026-03-25 19:30:17,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:22,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:22,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:22Z'}
+2026-03-25 19:30:22,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:27,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:27,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:27Z'}
+2026-03-25 19:30:27,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:32,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:32,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:32,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:32Z'}
+2026-03-25 19:30:32,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:37,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:37,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:37,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:37Z'}
+2026-03-25 19:30:37,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:42,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:42,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:42Z'}
+2026-03-25 19:30:42,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:47,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:47,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:47Z'}
+2026-03-25 19:30:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:52,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:52,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:52,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:52Z'}
+2026-03-25 19:30:52,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:30:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:30:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:30:57,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:30:57,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:30:57,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:30:57Z'}
+2026-03-25 19:30:57,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:02,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:02Z'}
+2026-03-25 19:31:02,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:07,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:07,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:07,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:07,310 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:07,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:07Z'}
+2026-03-25 19:31:07,311 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:12,293 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:12,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:12,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:12,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:12Z'}
+2026-03-25 19:31:12,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:17,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:17,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:17,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:17,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:17Z'}
+2026-03-25 19:31:17,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:22,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:22,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:22,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:22,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:22Z'}
+2026-03-25 19:31:22,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:27,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:27,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:27,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:27Z'}
+2026-03-25 19:31:27,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:32,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:32,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:32,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:32,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:32Z'}
+2026-03-25 19:31:32,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:37,303 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:37,312 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:37,312 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:37Z'}
+2026-03-25 19:31:37,312 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:42,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:42,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:42,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:42Z'}
+2026-03-25 19:31:42,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:47,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:47,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:47Z'}
+2026-03-25 19:31:47,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:52,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:52,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:52,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:52Z'}
+2026-03-25 19:31:52,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:31:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:31:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:31:57,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:31:57,305 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:31:57,305 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:31:57Z'}
+2026-03-25 19:31:57,305 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:02,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:02,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:02Z'}
+2026-03-25 19:32:02,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:07,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:07Z'}
+2026-03-25 19:32:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:12,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:12,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:12Z'}
+2026-03-25 19:32:12,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:17,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:17,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:17,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:17,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:17,309 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:17Z'}
+2026-03-25 19:32:17,309 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:22,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:22,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:22,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:22,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:22,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:22Z'}
+2026-03-25 19:32:22,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:27,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:27,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:27,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:27,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:27,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:27Z'}
+2026-03-25 19:32:27,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:32,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:32,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:32,302 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:32,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:32,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:32Z'}
+2026-03-25 19:32:32,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:37,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:37,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:37,301 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:37,309 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:37,310 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:37Z'}
+2026-03-25 19:32:37,310 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:42,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:42,293 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:42,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:42,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:42,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:42Z'}
+2026-03-25 19:32:42,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:47,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:47,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:47,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:47,308 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:47,308 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:47Z'}
+2026-03-25 19:32:47,308 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:52,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:52,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:52,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:52,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:52,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:52Z'}
+2026-03-25 19:32:52,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:32:57,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:32:57,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:32:57,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:32:57,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:32:57,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:32:57Z'}
+2026-03-25 19:32:57,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:33:02,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:33:02,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:33:02,299 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:33:02,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:33:02,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:33:02Z'}
+2026-03-25 19:33:02,306 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:33:07,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:33:07,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:33:07,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:33:07,307 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:33:07,307 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:33:07Z'}
+2026-03-25 19:33:07,307 - basicLogger - INFO - Periodic processing has ended
+2026-03-25 19:33:12,292 - basicLogger - INFO - Periodic processing has started
+2026-03-25 19:33:12,292 - basicLogger - DEBUG - Successfully loaded existing statistics
+2026-03-25 19:33:12,300 - basicLogger - INFO - Number of performance events received: 0
+2026-03-25 19:33:12,306 - basicLogger - INFO - Number of error events received: 0
+2026-03-25 19:33:12,306 - basicLogger - DEBUG - Updated statistics: {'num_performance_readings': 0, 'max_cpu_reading': 0, 'num_error_readings': 0, 'max_severity_level': 0, 'last_updated': '2026-03-25T19:33:12Z'}
+2026-03-25 19:33:12,306 - basicLogger - INFO - Periodic processing has ended
